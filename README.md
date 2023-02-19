@@ -1,11 +1,11 @@
-# pipes - an 8 Harmonic Tracking Oscillator with 8 VCAs
+# Pipes - an 8 Harmonic Tracking Oscillator with 8 VCAs
 Used in conjunction with an 8 output CV generating module such as the Bonkulator, Pipes is a way to set the amplitude envelopes of a tone and 7 of its harmonics.
 The harmonics are 1f, 2f, 3f, 4f, 5f, 6f, 7f and 8f. They are generated as square waves.
 Pipes features one signal input, a signal output, an output level adjustment pot, and eight CV inputs to the VCAs.
 The signal input level must be greater than .1Vp-p for the phase-locked loop circuits to be able to lock on.
 The output signal ranges from 0 to 10Vp-p.
 
-These repos contain the materials needed to construct the Bonkulator main board and the front panel. The files are for KiCAD 6.0. 
+These repos contain the materials needed to construct the Pipes main board and the front panel. The files are for KiCAD 6.0. 
 Go to the Greenlight Kicad repo to get the needed libraries. The gerber files work with JLCPC and will most likely work with other board manufacturers.
 
 When using the JLCPCB assembly service, the BOM is split into 3 parts.
