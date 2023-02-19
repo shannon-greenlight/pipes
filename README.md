@@ -16,7 +16,7 @@ When using the JLCPCB assembly service, the BOM is split into 3 parts.
 
 Also, when an assembly service is used, a component position file is required. This file's path is: fab/pipes_cpl.xlsx
 
-notes: 	The bom and cpl files are auto-generated from the csv BOM files produced by KiCAD. You will need to refresh the data and save the file when changes to 
+notes: 	The bom and cpl files are auto-generated from the BOM files produced by KiCAD. You will need to refresh the data and save the file when changes to 
 the schematic that affect the BOM or changes to the board layout occur.
 If they exist, the extra parts and additional data fields that appear on the schematic help to produce the different BOM files. 
 They must be maintained for these BOMs to come out right.
