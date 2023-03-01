@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_overlap|100040000|134200000|1f53ea64-2c81-47d3-8c76-9c8c2f6e0bfe|d46806a3-0375-4cf5-b218-62b0e7dc0cf9",
+        "silk_overlap|99960000|136200000|d46806a3-0375-4cf5-b218-62b0e7dc0cf9|1f53ea64-2c81-47d3-8c76-9c8c2f6e0bfe",
+        "track_dangling|99700000|58400000|0fa7ee95-c41d-4741-af62-277a9d896847|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -450,8 +454,12 @@
       "PLLs"
     ],
     [
+      "640dfded-e89d-491d-ba35-d4350807bd2b",
+      "Outputs"
+    ],
+    [
       "040402cd-f1ba-4091-8802-be9bdddd0d02",
-      "outputs"
+      "VCAs"
     ]
   ],
   "text_variables": {}

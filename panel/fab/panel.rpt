@@ -1,0 +1,280 @@
+## Footprint report - date Mon Feb 20 03:38:04 2023
+## Created by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 38.901191 30.725000
+lower_right_corner 101.498810 172.820000
+$EndBOARD
+
+$MODULE GR1
+footprint panel:small_face
+attribut none
+position 71.490000 49.820000  orientation 0.00
+layer front
+$EndMODULE  GR1
+
+$MODULE GR2
+footprint Symbol:OSHW-Logo_5.7x6mm_SilkScreen
+attribut virtual
+position 70.080000 150.140000  orientation 0.00
+layer front
+$EndMODULE  GR2
+
+$MODULE GR3
+footprint Symbol:KiCad-Logo_5mm_SilkScreen
+attribut virtual
+position 69.020000 167.980000  orientation 0.00
+layer front
+$EndMODULE  GR3
+
+$MODULE H1
+footprint panel:MountingHole_3.2mm_M3_SmPad
+attribut virtual
+position 52.500000 33.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H1
+
+$MODULE H2
+footprint panel:MountingHole_3.2mm_M3_SmPad
+attribut virtual
+position 88.000000 33.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H2
+
+$MODULE H3
+footprint panel:MountingHole_3.2mm_M3_SmPad
+attribut virtual
+position 88.000000 156.150000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H3
+
+$MODULE H4
+footprint panel:MountingHole_3.2mm_M3_SmPad
+attribut virtual
+position 52.500000 156.150000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H4
+
+$MODULE H5
+footprint panel:RotaryEncoder_6.4mm
+attribut virtual
+position 92.520000 108.030000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  5.650000  0.000000  size  6.400000  6.400000  orientation 0.00
+drill  6.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H5
+
+$MODULE H6
+footprint panel:MolexJack
+attribut virtual
+position 91.650000 64.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H6
+
+$MODULE H7
+footprint panel:MolexJack
+attribut virtual
+position 91.650000 126.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H7
+
+$MODULE H10
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 52.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H10
+
+$MODULE H11
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 64.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H11
+
+$MODULE H12
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 76.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H12
+
+$MODULE H17
+footprint MountingHole:MountingHole_2.5mm
+attribut virtual
+position 44.000000 43.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H17
+
+$MODULE H18
+footprint MountingHole:MountingHole_2.5mm
+attribut virtual
+position 96.400000 43.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H18
+
+$MODULE H19
+footprint MountingHole:MountingHole_2.5mm
+attribut virtual
+position 96.400000 147.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H19
+
+$MODULE H20
+footprint MountingHole:MountingHole_2.5mm
+attribut virtual
+position 44.000000 147.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H20
+
+$MODULE H21
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 88.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H21
+
+$MODULE H22
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 102.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H22
+
+$MODULE H23
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 114.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H23
+
+$MODULE H24
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 126.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H24
+
+$MODULE H25
+footprint panel:MolexJack
+attribut virtual
+position 51.000000 138.850000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.870000 -0.850000  size  6.200000  6.200000  orientation 0.00
+drill  6.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H25
+
+$EndDESCRIPTION
