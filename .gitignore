@@ -3,9 +3,13 @@ panel/fp-info-cache
 panel/fp-lib-table
 pipes/fab/~$pipes_cpl.xlsx
 pipes/fp-info-cache
+pipes_main/fp-info-cache
+pipes_sub/fp-info-cache
 pipes/pipes-backups
 panel/panel-backups
 pipes/#auto_saved_files#
+pipes_main/pipes_main-backups
+pipes_sub/pipes_sub-backups
 img
 docs
 
