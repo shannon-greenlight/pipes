@@ -565,7 +565,7 @@
     (uuid 9aa71f47-ee91-4e2c-9d56-1611268aedd7)
     (property "Reference" "GR2" (id 0) (at 158.75 73.6305 0))
     (property "Value" "bamboo" (id 1) (at 158.75 76.4056 0))
-    (property "Footprint" "panel:bamboo_big_neg" (id 2) (at 158.75 78.74 0)
+    (property "Footprint" "panel:face_logo" (id 2) (at 158.75 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 158.75 78.74 0)

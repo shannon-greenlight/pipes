@@ -3115,7 +3115,7 @@
   (symbol (lib_id "power:+9V") (at 93.345 81.915 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 560ee94e-e947-42c4-87b4-38da45c08fa7)
-    (property "Reference" "#PWR?" (id 0) (at 89.535 81.915 0)
+    (property "Reference" "#PWR0101" (id 0) (at 89.535 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+9V" (id 1) (at 95.885 81.915 90)
@@ -4551,6 +4551,9 @@
     (path "/c5b67bdf-a002-474d-88d6-cf5ee755877e"
       (reference "#PWR076") (unit 1) (value "GND") (footprint "")
     )
+    (path "/560ee94e-e947-42c4-87b4-38da45c08fa7"
+      (reference "#PWR0101") (unit 1) (value "+9V") (footprint "")
+    )
     (path "/be958b20-cb67-4b2d-91ba-c8b8c9adf45d"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
@@ -4721,9 +4724,6 @@
     )
     (path "/640dfded-e89d-491d-ba35-d4350807bd2b/315e08a5-bedb-4bee-b56a-c2b81907a648"
       (reference "#PWR0166") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/560ee94e-e947-42c4-87b4-38da45c08fa7"
-      (reference "#PWR?") (unit 1) (value "+9V") (footprint "")
     )
     (path "/784d66c8-9a2b-48d1-a85e-9fa6228832cd"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -4945,7 +4945,7 @@
       (reference "GR1") (unit 1) (value "small_logo") (footprint "panel:small_face")
     )
     (path "/19cb3c9a-5904-4c81-8074-8464579c92cf/9aa71f47-ee91-4e2c-9d56-1611268aedd7"
-      (reference "GR2") (unit 1) (value "bamboo") (footprint "panel:bamboo_big_neg")
+      (reference "GR2") (unit 1) (value "bamboo") (footprint "panel:face_logo")
     )
     (path "/19cb3c9a-5904-4c81-8074-8464579c92cf/2274cb2e-6550-4840-b6fc-74833f21cbfe"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
