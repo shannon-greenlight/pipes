@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\pipes\pipes_main\pipes_main.kicad_sch</source>
-    <date>3/5/2023 7:16:30 PM</date>
+    <date>3/7/2023 5:58:44 AM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -801,7 +801,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pipes_main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d2dbd152-af4f-4ea8-b29b-98a7bf0960af cbcf0e2e-d51d-435d-aa4e-5fb8e8d47809 216a5ac0-5983-4faa-b063-0a42eaa49fb7</tstamps>
+      <tstamps>cbcf0e2e-d51d-435d-aa4e-5fb8e8d47809 d2dbd152-af4f-4ea8-b29b-98a7bf0960af 216a5ac0-5983-4faa-b063-0a42eaa49fb7</tstamps>
     </comp>
     <comp ref="U3">
       <value>LM317_SOT-223</value>
