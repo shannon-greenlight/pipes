@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\pipes\pipes_sub\pipes_sub.kicad_sch</source>
-    <date>3/7/2023 6:07:10 AM</date>
+    <date>3/8/2023 5:22:02 AM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -5719,81 +5719,81 @@
       <node ref="R137" pin="2" pintype="passive"/>
       <node ref="U39" pin="7" pintype="output"/>
     </net>
-    <net code="220" name="VCA1">
-      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R49" pin="2" pintype="passive"/>
-    </net>
-    <net code="221" name="VCA2">
-      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="R58" pin="2" pintype="passive"/>
-    </net>
-    <net code="222" name="VCA3">
-      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="R47" pin="2" pintype="passive"/>
-    </net>
-    <net code="223" name="VCA4">
-      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="R56" pin="2" pintype="passive"/>
-    </net>
-    <net code="224" name="VCA5">
-      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="R65" pin="2" pintype="passive"/>
-    </net>
-    <net code="225" name="VCA6">
-      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="R45" pin="2" pintype="passive"/>
-    </net>
-    <net code="226" name="VCA7">
-      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="R54" pin="2" pintype="passive"/>
-    </net>
-    <net code="227" name="VCA8">
-      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="R63" pin="2" pintype="passive"/>
-    </net>
-    <net code="228" name="VCO">
+    <net code="220" name="SIG">
       <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
-    <net code="229" name="VCO1">
+    <net code="221" name="SIG1">
       <node ref="R10" pin="2" pintype="passive"/>
       <node ref="RV4" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U25" pin="7" pintype="output"/>
     </net>
-    <net code="230" name="VCO2">
+    <net code="222" name="SIG2">
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="RV7" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U31" pin="7" pintype="output"/>
     </net>
-    <net code="231" name="VCO3">
+    <net code="223" name="SIG3">
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="RV3" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U24" pin="7" pintype="output"/>
     </net>
-    <net code="232" name="VCO4">
+    <net code="224" name="SIG4">
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="RV6" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U30" pin="7" pintype="output"/>
     </net>
-    <net code="233" name="VCO5">
+    <net code="225" name="SIG5">
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="RV9" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U35" pin="7" pintype="output"/>
     </net>
-    <net code="234" name="VCO6">
+    <net code="226" name="SIG6">
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="RV2" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U23" pin="7" pintype="output"/>
     </net>
-    <net code="235" name="VCO7">
+    <net code="227" name="SIG7">
       <node ref="R16" pin="2" pintype="passive"/>
       <node ref="RV5" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U29" pin="7" pintype="output"/>
     </net>
-    <net code="236" name="VCO8">
+    <net code="228" name="SIG8">
       <node ref="R17" pin="2" pintype="passive"/>
       <node ref="RV8" pin="2" pinfunction="Wiper" pintype="passive"/>
       <node ref="U34" pin="7" pintype="output"/>
+    </net>
+    <net code="229" name="VCA1">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="230" name="VCA2">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+    </net>
+    <net code="231" name="VCA3">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="232" name="VCA4">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+    </net>
+    <net code="233" name="VCA5">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R65" pin="2" pintype="passive"/>
+    </net>
+    <net code="234" name="VCA6">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="235" name="VCA7">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+    </net>
+    <net code="236" name="VCA8">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R63" pin="2" pintype="passive"/>
     </net>
     <net code="237" name="unconnected-(RV2-Pad3)">
       <node ref="RV2" pin="3" pinfunction="CW" pintype="passive"/>
