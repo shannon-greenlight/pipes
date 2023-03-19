@@ -935,7 +935,7 @@
     (uuid bd6f6aaa-569a-4c75-a8ff-b09aedaec1f5)
     (property "Reference" "GR3" (id 0) (at 233.045 98.3955 0))
     (property "Value" "bamboo" (id 1) (at 233.045 101.1706 0))
-    (property "Footprint" "panel:bambooh" (id 2) (at 233.045 103.505 0)
+    (property "Footprint" "pipes:bambooh" (id 2) (at 233.045 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 233.045 103.505 0)
@@ -1060,7 +1060,7 @@
       (reference "GR2") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Logo_5.7x6mm_SilkScreen")
     )
     (path "/bd6f6aaa-569a-4c75-a8ff-b09aedaec1f5"
-      (reference "GR3") (unit 1) (value "bamboo") (footprint "panel:bambooh")
+      (reference "GR3") (unit 1) (value "bamboo") (footprint "pipes:bambooh")
     )
     (path "/495b9f3e-72d4-4443-8d1b-2b95612acb36"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "panel:MountingHole_3.2mm_M3_SmPad")
