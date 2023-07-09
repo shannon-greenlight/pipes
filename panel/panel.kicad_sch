@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "Bonkulator Panel")
-    (rev "2.1")
+    (title "Pipes Panel")
+    (rev "1.1")
   )
 
   (lib_symbols
@@ -888,7 +888,7 @@
     (uuid b7e9d1ed-d010-49fa-95b8-39eee642e6e7)
     (property "Reference" "GR1" (id 0) (at 231.14 56.4855 0))
     (property "Value" "dial" (id 1) (at 231.14 59.2606 0))
-    (property "Footprint" "panel:dial_sm" (id 2) (at 231.14 61.595 0)
+    (property "Footprint" "panel:dial2" (id 2) (at 231.14 61.595 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 231.14 61.595 0)
@@ -922,7 +922,7 @@
     (property "Value" "Gain" (id 1) (at 106.68 52.705 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "panel:RotaryEncoder_6.4mm" (id 2) (at 104.14 51.562 0)
+    (property "Footprint" "panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical" (id 2) (at 104.14 51.562 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 104.14 51.562 0)
@@ -1054,7 +1054,7 @@
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
     (path "/b7e9d1ed-d010-49fa-95b8-39eee642e6e7"
-      (reference "GR1") (unit 1) (value "dial") (footprint "panel:dial_sm")
+      (reference "GR1") (unit 1) (value "dial") (footprint "panel:dial2")
     )
     (path "/307d06a5-a22d-4946-8b80-4f092fd73e46"
       (reference "GR2") (unit 1) (value "Logo_Open_Hardware_Small") (footprint "Symbol:OSHW-Logo_5.7x6mm_SilkScreen")
@@ -1075,7 +1075,7 @@
       (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "panel:MountingHole_3.2mm_M3_SmPad")
     )
     (path "/bcb71876-c270-45b1-942b-f8b7b2e74527"
-      (reference "H5") (unit 1) (value "Gain") (footprint "panel:RotaryEncoder_6.4mm")
+      (reference "H5") (unit 1) (value "Gain") (footprint "panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical")
     )
     (path "/b8f3be1f-4f7f-41d5-b496-5f7052d6e8e5"
       (reference "H6") (unit 1) (value "Clk In") (footprint "panel:MolexJack")
