@@ -2181,7 +2181,7 @@
     (uuid ff959b59-b40f-4328-974d-31888f71ca03)
   )
 
-  (text "~25K at VCA=10V" (at 26.67 139.065 0)
+  (text "~20K at VCA=10V" (at 26.67 139.065 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f0ce2bd0-0699-419a-84f2-f0e109b9d22f)
   )
