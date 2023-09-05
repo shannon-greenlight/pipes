@@ -13,7 +13,7 @@
 "D5, ","1N4148","Diode_SMD:D_SOD-123","C2892570"
 "J21, ","2x8 Female Header","sputterizer:PinSocket_2x08_P2.54mm_Vertical_SMD_guides","C3975153"
 "J22, ","2x5 Female Header","sputterizer:PinSocket_2x05_P2.54mm_Vertical_SMD_guides","C3975150"
-"Q1, Q2, ","2N3904","Package_TO_SOT_SMD:SOT-23","C90160"
+"Q1, Q2, ","MMBT3904","Package_TO_SOT_SMD:SOT-23","C20526"
 "R1, R8, ","68K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","C17801"
 "R2, R6, R12, R13, R14, R15, R16, R17, R20, R21, R29, R30, R31, R38, R39, R44, R45, ","10K","Resistor_SMD:R_0603_1608Metric","C25804"
 "R3, R5, ","100K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","C149504"
@@ -34,3 +34,4 @@
 "U4, U5, U10, U11, U12, U16, U17, ","CD4046","Package_SO:TSSOP-16_4.4x5mm_P0.65mm","C2651240"
 "U6, ","AMS1117-5.0","Package_TO_SOT_SMD:SOT-223-3_TabPin2","C6187"
 "U7, U8, U13, U14, U15, U18, U19, ","CD4017","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","C11349"
+"U36, U37, U38, U39, ","CD40107","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C2691402"

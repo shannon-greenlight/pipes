@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\pipes\pipes_main\pipes_main.kicad_sch</source>
-    <date>3/19/2023 6:45:26 PM</date>
+    <date>9/2/2023 6:42:17 AM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -804,33 +804,32 @@
       <tstamps>b5168f37-c102-48f9-991f-2879535af1f3</tstamps>
     </comp>
     <comp ref="Q1">
-      <value>2N3904</value>
+      <value>MMBT3904</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
       <fields>
-        <field name="LCSC Part #">C90160</field>
+        <field name="LCSC Part #">C20526</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
-      <property name="Digi-Key Part" value=""/>
-      <property name="LCSC Part #" value="C90160"/>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="LCSC Part #" value="C20526"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pipes_main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fab7b5c3-3923-42cc-8f1f-6530e9cc3406</tstamps>
+      <tstamps>4bcd9fb3-61f7-4e43-b277-282d564a2f36</tstamps>
     </comp>
     <comp ref="Q2">
-      <value>2N3904</value>
+      <value>MMBT3904</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
       <fields>
-        <field name="LCSC Part #">C90160</field>
+        <field name="LCSC Part #">C20526</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
-      <property name="LCSC Part #" value="C90160"/>
+      <libsource lib="Transistor_BJT" part="MMBT3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23"/>
+      <property name="LCSC Part #" value="C20526"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pipes_main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>36995f4c-2bdb-43e7-a2ac-9b247e95a4df</tstamps>
+      <tstamps>2c51a41b-96ab-4ffe-9a8b-dbc0dd272b98</tstamps>
     </comp>
     <comp ref="R1">
       <value>68K</value>
@@ -3165,7 +3164,13 @@
       <value>CD40107</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part">296-31481-1-ND</field>
+        <field name="LCSC Part #">C2691402</field>
+      </fields>
       <libsource lib="greenface-symbols" part="CD40107" description="Dual NAND Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC Part #" value="C2691402"/>
+      <property name="Digi-Key Part" value="296-31481-1-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
       <sheetpath names="/Outputs/" tstamps="/640dfded-e89d-491d-ba35-d4350807bd2b/"/>
@@ -3175,7 +3180,13 @@
       <value>CD40107</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part">296-31481-1-ND</field>
+        <field name="LCSC Part #">C2691402</field>
+      </fields>
       <libsource lib="greenface-symbols" part="CD40107" description="Dual NAND Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC Part #" value="C2691402"/>
+      <property name="Digi-Key Part" value="296-31481-1-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
       <sheetpath names="/Outputs/" tstamps="/640dfded-e89d-491d-ba35-d4350807bd2b/"/>
@@ -3185,7 +3196,13 @@
       <value>CD40107</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part">296-31481-1-ND</field>
+        <field name="LCSC Part #">C2691402</field>
+      </fields>
       <libsource lib="greenface-symbols" part="CD40107" description="Dual NAND Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC Part #" value="C2691402"/>
+      <property name="Digi-Key Part" value="296-31481-1-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
       <sheetpath names="/Outputs/" tstamps="/640dfded-e89d-491d-ba35-d4350807bd2b/"/>
@@ -3195,7 +3212,13 @@
       <value>CD40107</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <fields>
+        <field name="Digi-Key Part">296-31481-1-ND</field>
+        <field name="LCSC Part #">C2691402</field>
+      </fields>
       <libsource lib="greenface-symbols" part="CD40107" description="Dual NAND Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC Part #" value="C2691402"/>
+      <property name="Digi-Key Part" value="296-31481-1-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
       <sheetpath names="/Outputs/" tstamps="/640dfded-e89d-491d-ba35-d4350807bd2b/"/>
@@ -3759,21 +3782,21 @@
         <pin num="3" name="VI" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="Transistor_BJT" part="2N3904">
-      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+    <libpart lib="Transistor_BJT" part="MMBT3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, SOT-23</description>
       <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
       <footprints>
-        <fp>TO?92*</fp>
+        <fp>SOT?23*</fp>
       </footprints>
       <fields>
         <field name="Reference">Q</field>
-        <field name="Value">2N3904</field>
-        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Value">MMBT3904</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
         <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
       </fields>
       <pins>
-        <pin num="1" name="E" type="passive"/>
-        <pin num="2" name="B" type="passive"/>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
         <pin num="3" name="C" type="passive"/>
       </pins>
     </libpart>
@@ -4210,7 +4233,7 @@
       <node ref="J9" pin="1" pinfunction="G" pintype="passive"/>
       <node ref="J9" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="J9" pin="4" pinfunction="SW" pintype="passive"/>
-      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="R69" pin="2" pintype="passive"/>
@@ -4268,7 +4291,7 @@
     </net>
     <net code="22" name="Net-(C1-Pad1)">
       <node ref="C1" pin="1" pintype="passive"/>
-      <node ref="Q1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R1" pin="1" pintype="passive"/>
     </net>
     <net code="23" name="Net-(C2-Pad1)">
@@ -4285,7 +4308,7 @@
     </net>
     <net code="25" name="Net-(C10-Pad1)">
       <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
     <net code="26" name="Net-(C11-Pad2)">
@@ -4495,8 +4518,8 @@
       <node ref="J20" pin="2" pinfunction="T" pintype="passive"/>
       <node ref="R85" pin="1" pintype="passive"/>
     </net>
-    <net code="75" name="Net-(Q2-Pad2)">
-      <node ref="Q2" pin="2" pinfunction="B" pintype="passive"/>
+    <net code="75" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R8" pin="1" pintype="passive"/>
     </net>
     <net code="76" name="Net-(R4-Pad2)">

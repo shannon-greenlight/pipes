@@ -94,8 +94,8 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "GR1","small_logo","small_face",-74.250000,-52.350000,180.000000,bottom
 "J21","2x8 Female Header","PinSocket_2x08_P2.54mm_Vertical_SMD_guides",-55.200000,-70.000000,180.000000,bottom
 "J22","2x5 Female Header","PinSocket_2x05_P2.54mm_Vertical_SMD_guides",-55.200000,-100.000000,0.000000,bottom
-"Q1","2N3904","SOT-23",-86.790000,-82.750000,90.000000,bottom
-"Q2","2N3904","SOT-23",-89.800000,-43.880000,180.000000,bottom
+"Q1","MMBT3904","SOT-23",-86.790000,-82.750000,90.000000,bottom
+"Q2","MMBT3904","SOT-23",-89.800000,-43.880000,0.000000,bottom
 "R1","68K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-83.930000,-82.670000,90.000000,bottom
 "R2","10K","R_0603_1608Metric",-96.220000,-61.420000,-90.000000,bottom
 "R3","100K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-94.110000,-55.840000,90.000000,bottom
